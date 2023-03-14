@@ -86,7 +86,7 @@ The goal of this level is to learn the core machine learning concepts and algori
 1. #### Learn about tensors (Est. time - 1 Day)
         1. What are Tensors? - https://www.youtube.com/watch?v=vVhD2EyS41Y
 2. #### Advance Statistics
-        1. Covariance
+        1. Covariance - https://colab.research.google.com/drive/19YlpW_N7idyQQvmpgrZg8KNSvIjCPk-8?usp=sharing
         2. Pearson Correlation Coefficient
         3. QQ Plot
         4. Confidence Interval
